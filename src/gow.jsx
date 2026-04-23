@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import kratosFoto from "./assets/kratos.png";
+const kratosFoto = "/kratos.png";
 import "./gow.css";
 
 function GowApp() {
